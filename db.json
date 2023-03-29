@@ -1,0 +1,528 @@
+{
+    "data":[
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/181be68754b2cda40fc6492b99b9a4cd09e0fb8a.png?1663875961",
+        "name": "Renault Kwid AT (Petrol)",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹9,948"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/61eb3eb6a06b1b07b6eaceb3a2001890c5578105.png?1663874381",
+        "name": "Maruti Ertiga Hybrid",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹16,154"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+        "name": "Renault Kwid",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,145"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+        "name": "Renault Kwid",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,751"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,918"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+        "name": "Maruti Dzire (Petrol)",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹14,085"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/ed9a65d8dc05ef4a910ce081fa6e6ce64e4b3114.png?1663872241",
+        "name": "Ford Ecosport",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹14,381"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/6d446db20dca0c731bb5f7e7ed70f35b16d44b45.png?1663875870",
+        "name": "Renault Duster",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹16,252"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,032"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/719d59fca3d2cbd73874cc76f6e78cf7979a452f.png?1663874180",
+        "name": "Suzuki Baleno",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹12,706"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a9da5e1244b4c6f13a062514fdd4d0f42d4570f6.png?1663873287",
+        "name": "Hyundai Xcent",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,933"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/3bdbccf3c1b15b1fb3adb2cc22ba237a5406c797.png?1663874667",
+        "name": "Maruti Wagon R",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹11,327"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/6ee53533c04c26fed588c6cd73d99a0f89ed1f57.png?1663876477",
+        "name": "Tata Tiago XZA+",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹13,790"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,524"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/16d0a4e4ed8e4f25aa1f824330c74e8abf4e02ad.png?1663874275",
+        "name": "Maruti Celerio AT",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹15,366"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,032"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2bfa504fda54519e54871e49ccf7a713c7452d97.png?1663874651",
+        "name": "Suzuki Swift Dzire MT",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,721"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/7a2ab432a9af65ad0841e721bf718cf531183b43.png?1663872622",
+        "name": "Honda Jazz SV",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹12,115"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/060ab7e42d2574640d0922774b8d08a57d6002f1.png?1663872604",
+        "name": "Honda Jazz",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹16,745"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2303a6687fa4eeb521863f8be1d12cf8dd765b45.png?1663874079",
+        "name": "Mahindra XUV500 FWD W11 AT",
+        "type": "Automatic",
+        "seats": "7 Seats",
+        "price": "₹27,383"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/96a687752e78103ccd4b67d860c34dc5a54049a8.png?1663876897",
+        "name": "Toyota Innova Crysta 2.4 VX",
+        "type": "Manual",
+        "seats": "8 Seats",
+        "price": "₹26,299"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/13284dce101cd7020c977103e2cb5f33bee3b0e9.png?1663874479",
+        "name": "Suzuki Ignis",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,638"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/bed673717922dd1229ae9b95fd1290340a241a6e.png?1663876327",
+        "name": "Tata Hexa",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹17,927"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+        "name": "Renault Triber",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹13,790"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/71d6f66d3c00d74abdf1b3b28811d0fa8b9ff1fc.png?1663874408",
+        "name": "Maruti Ertiga Hybrid",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹15,563"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/036dd29b96a1232243eb30bee11dc18445c19468.png?1663872961",
+        "name": "Hyundai Grand i10 Nios",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹12,312"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+        "name": "Suzuki Baleno",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹12,805"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/5ef36d2a7a54280f15d4ef1d5af8a3c452838f08.png?1663874575",
+        "name": "Maruti S-Presso",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,653"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/711f36ddaa87a099039fc5b8d00be9d2bdd70659.png?1663873827",
+        "name": "Mahindra KUV 100",
+        "type": "Manual",
+        "seats": "6 Seats",
+        "price": "₹10,835"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/13ac1f9054efd40b705ee8d11b603fcee4c9e6f8.png?1663874398",
+        "name": "Maruti Ertiga",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹13,002"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/16d0a4e4ed8e4f25aa1f824330c74e8abf4e02ad.png?1663874275",
+        "name": "Maruti Celerio AT",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹12,509"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,948"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/aac05ee37980c8d94e9657bc8ddea29312b0e6ae.jpg?1620384508",
+        "name": "Hyundai Santro",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,820"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+        "name": "Renault Kwid",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹8,766"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/5ec9c4e2cfa1057fee41245852b7fd7bb040229b.png?1663872437",
+        "name": "Honda Amaze",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,327"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,721"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/4591ed5749ed95845712e7f86a42f2575b5cc6a3.png?1663874318",
+        "name": "Maruti Ciaz",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,494"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/3bdbccf3c1b15b1fb3adb2cc22ba237a5406c797.png?1663874667",
+        "name": "Maruti Wagon R",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹11,721"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2acddaaa10bffd56c64e18c2c76a71f7b353ccd6.png?1663876459",
+        "name": "Tata Tiago AT",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹11,524"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/b1f5215115c34b7c9695227ada463bd5ef01f7df.png?1663875089",
+        "name": "MG Motors Hector Hybrid Super",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹27,481"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+        "name": "Renault Triber",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹14,676"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/71d6f66d3c00d74abdf1b3b28811d0fa8b9ff1fc.png?1663874408",
+        "name": "Maruti Ertiga Hybrid",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹15,760"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2bfa504fda54519e54871e49ccf7a713c7452d97.png?1663874651",
+        "name": "Suzuki Swift Dzire MT",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹12,312"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/e6c4b3d7b7876c0cc19ae1ad2cdafe3aa845cdb9.png?1663874610",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,145"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/4eb22200e6a92ad6cdfe45ae120f113d22cea7b6.png?1663874310",
+        "name": "Maruti Ciaz Hybrid",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹14,775"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+        "name": "Renault Triber",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹12,608"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/ecf7b86923743384ce9aa76b1b2f0e96eb18215b.png?1663872831",
+        "name": "Hyundai Creta",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,396"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/e6c4b3d7b7876c0cc19ae1ad2cdafe3aa845cdb9.png?1663874610",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,002"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+        "name": "Hyundai I20",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,987"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/84669243b5b9b47e7a5956951bb84a9237622ee2.png?1663876843",
+        "name": "Toyota Glanza",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,790"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/711f36ddaa87a099039fc5b8d00be9d2bdd70659.png?1663873827",
+        "name": "Mahindra KUV 100",
+        "type": "Manual",
+        "seats": "6 Seats",
+        "price": "₹13,396"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+        "name": "Suzuki Baleno",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,130"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+        "name": "Maruti Dzire (Petrol)",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹13,691"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/527e566a840fcf1b9530ba671de19519ed445c86.png?1663873461",
+        "name": "KIA Carens",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹26,201"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/67b69e4cf6997df22be898d9a61a5c37e1b753cb.png?1663872916",
+        "name": "Hyundai Eon",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹8,372"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f26443def4a687fa6996497880174570e630d503.png?1663876925",
+        "name": "Toyota Innova",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹24,034"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/854653304456151126ee7a098d52b0f490c1932c.JPG?1667201883",
+        "name": "Suzuki Ertiga Hybrid",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹14,873"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f9a7281d921fc6abdb3b61a2f61d7c32bd9ac748.png?1663872996",
+        "name": "Hyundai Grand i10",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,426"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/dc5bee305b644ddd155849961999c990d4c93056.JPG?1666173563",
+        "name": "Maruti Dzire",
+        "type": "Automatic",
+        "seats": "5 Seats",
+        "price": "₹11,918"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/67b69e4cf6997df22be898d9a61a5c37e1b753cb.png?1663872916",
+        "name": "Hyundai Eon",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹8,569"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/3fb6d08415d43a5bb0bad21f13cf860f97efa9f6.png?1663872516",
+        "name": "Honda City",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹14,184"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,948"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,229"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,229"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,160"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹12,017"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,933"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,032"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹10,933"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,160"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+        "name": "Maruti Wagon R",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹11,327"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+        "name": "Renault Triber",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹13,790"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+        "name": "Maruti Swift",
+        "type": "Manual",
+        "seats": "5 Seats",
+        "price": "₹9,160"
+      },
+      {
+        "images": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+        "name": "Renault Triber",
+        "type": "Manual",
+        "seats": "7 Seats",
+        "price": "₹14,381"
+      }
+    ]
+  
+   
+  
+    
+  
+  }
+  
